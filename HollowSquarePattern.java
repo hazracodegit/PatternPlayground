@@ -14,3 +14,13 @@ public class HollowSquarePattern {
         }
     }
 }
+
+
+/*  Output :
+
+n=5
+    * * * * *
+    *       *
+    *       *
+    *       *
+    * * * * *      
