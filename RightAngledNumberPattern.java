@@ -13,6 +13,8 @@ public class RightAngledNumberPattern{
 }
 
 /* Output :
+
+   n=5
     1
     1   2
     1   2   3
